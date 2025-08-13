@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m studying Computer Science<br>- 📚 I'm currently learning about Fullstack Development</p>
+<p align="left">- 🔭 I’m studying Computer Science<br>- 📚 I'm currently learning about fullstack development</p>
 
 ###
 
@@ -32,11 +32,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
 </div>
 
 ###
