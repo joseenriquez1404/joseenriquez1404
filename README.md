@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m studying Computer Science<br>- 📚 I'm currently learning about fullstack development</p>
+<p align="left">- 🔭 I’m studying Computer Science<br>- 📚 I'm currently learning about fullstack development and AI</p>
 
 ###
 
