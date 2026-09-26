@@ -34,9 +34,9 @@
       <p><em>Python · FastAPI · PyTorch · Azure ML · TypeScript · React · Vite</em></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/joseenriquez1404/Movie-for-Me">Movie for Me</a></h4>
-      <p>Movie recommendation app built around a machine learning model trained from scratch. <!-- TODO: refine once repo is public --></p>
-      <p><em>Python · Machine Learning</em></p>
+      <h4><a href="https://github.com/joseenriquez1404/MovieForMe">Movie For Me</a></h4>
+      <p>Movie recommendation web app. FastAPI service that encodes movie synopses with sentence-transformers and serves nearest-neighbour recommendations from a KNN model, behind a React + TypeScript client.</p>
+      <p><em>Python · FastAPI · sentence-transformers · scikit-learn · TypeScript · React · Vite · Docker</em></p>
     </td>
   </tr>
   <tr>
@@ -96,6 +96,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
